@@ -2,8 +2,7 @@
 <img src="https://github.com/NJAimesD/AIAcademyCS/assets/159951082/9249a348-f7f3-46e8-bca0-742d921947ce" width="650" /> 
 
 ### Overview and Business Understanding
-Credit risk prediction is a crucial process for financial institutions, aiming to asses the likehood of a borrower defaulting on a loan. That way the people not likely to default can more easily access loans with better
-conditions, while the institutions reduce the risk of finantial loss.
+Credit risk prediction is a crucial process for financial institutions, aiming to assess the likehood of a borrower defaulting on a loan. That way the people not likely to default can more easily access loans with better conditions, while the institutions reduce the risk of financial loss.
 There are many techniques to predict credit risk, but Machine Learning (ML) can be used to automate the prediction process, since it learns the patterns associated with a defaulter profile and its use reduces time and resource consumption.
 Detecting people with a high risk profile can be a complex task, but still results in a better profit margin for the institution. Also, ML improves the efficiency of the process, and the institution resources can be now used in other areas that require human supervision.
 
